@@ -1,0 +1,22 @@
+# Virtual Environment
+tf_dml_env/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+models/*.h5
+models/*.keras
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
